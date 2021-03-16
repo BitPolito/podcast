@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="349px" height="385px" src="./podcast-logo-white.png" />
+  <img width="30%" height="30%" src="https://raw.githubusercontent.com/BITPoliTO/media-assets/main/podcast/podcast-logo-square-rounded-dark.png" />
 </p>
 
 # BITPoliTO Podcast
