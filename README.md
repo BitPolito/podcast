@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="20%" height="20%" src="https://i.imgur.com/Foy1Spx.png" />
+  <img width="20%" height="20%" src="https://i.imgur.com/U1vA9XT.png" />
 </p>
 
 # BITPoliTO Podcast
