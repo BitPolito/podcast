@@ -2,8 +2,8 @@
   <img width="20%" height="20%" src="https://i.imgur.com/U1vA9XT.png" />
 </p>
 
-# BITPoliTO Podcast
-**BITPoliTO podcast** is available on [YouTube], [Spotify], [Bitchute] and [Rumble].
+# BIT PoliTO Podcast
+**BIT PoliTO podcast** is available on [YouTube], [Spotify], [Bitchute] and [Rumble].
 
 ## List of podcast episodes:
 0. [Introduction](https://youtu.be/sQsK0Ec8xmU) [*Italian* / *English subs*]
