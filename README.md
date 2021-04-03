@@ -20,6 +20,7 @@
 11. [Brave, tokens and everything around them](https://youtu.be/VmipyXS0_V4) [*Italian* / *English subs*]
 12. [Introduction to the Lightning network](https://youtu.be/2EeUyfNw6Qg) [*Italian* / *English subs*]
 13. [Tokens, NFTs and everything around them](https://youtu.be/0SSwyJ2hk0k) [*Italian* / *English subs*]
+14. [Dot e a capo](https://youtu.be/HchsJ65hyvU) [*Italian* / *English subs*] 
 
 ## List of vlog episodes:
 1. [Let's see the office](https://youtu.be/SMsmtPD1T1I) [*Italian* / *English subs*]
