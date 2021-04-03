@@ -25,6 +25,9 @@
 ## List of vlog episodes:
 1. [Let's see the office](https://youtu.be/SMsmtPD1T1I) [*Italian* / *English subs*]
 
+## Live:
+1. [Easterive - Live pre pasqua](https://youtu.be/CMzX45oLl4I) 
+
 ----
 All material is protected by the [Creative Commons Attribution 4.0 International License]
 
