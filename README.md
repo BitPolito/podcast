@@ -25,6 +25,7 @@
 14. [Dot e a capo](https://youtu.be/HchsJ65hyvU) [*Italian* / *English subs*]
 15. [Bit meets Bit](https://youtu.be/8diJmol6vCg) [*Italian* / *English subs*]
 16. [Mythbusters - Environmental impact of PoW](https://youtu.be/hRV8W9-LPQI) [*Italian* / *English subs*]
+17. [Bit meets Ben] (https://www.youtube.com/watch?v=AUfqGGIyNas) [*Italian* / *English subs*]
 
 ## List of vlog episodes:
 
